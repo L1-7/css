@@ -4,6 +4,6 @@ I DO NOT OWN ANY OF THESE THEMES | I AM ONLY UPLOADING THEM HERE TO CONVERT THEM
 
 Credits:
 
-SoftX theme - Gibbu > https://github.com/DiscordStyles/SoftX
-Virtual-Bot theme - Riddim-GLiTCH > https://github.com/Riddim-GLiTCH/Virtual-Boy
-kaleidoscope theme - Alex > https://github.com/spinfish/kaleidoscope
+SoftX theme - Gibbu > https://github.com/DiscordStyles/SoftX |
+Virtual-Bot theme - Riddim-GLiTCH > https://github.com/Riddim-GLiTCH/Virtual-Boy |
+kaleidoscope theme - Alex > https://github.com/spinfish/kaleidoscope |
